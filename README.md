@@ -1,6 +1,8 @@
-# meal
+#Meal App
 
-A new Flutter project.
+This is an Ongoing Project.
+This app has all the basic features like navigating to different pages , scrolling through items and displaying images and contents .
+I m working on the animations of the project 
 
 ## Getting Started
 
