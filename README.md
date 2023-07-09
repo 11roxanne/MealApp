@@ -1,4 +1,4 @@
-#Meal App
+##Meal App
 
 This is an Ongoing Project.
 This app has all the basic features like navigating to different pages , scrolling through items and displaying images and contents .
